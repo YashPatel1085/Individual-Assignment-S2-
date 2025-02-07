@@ -1,4 +1,4 @@
-# Individual-Assignment-S2-
+# my-web-app
 -a simple web application built using React and Next.js.
 
 
